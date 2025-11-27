@@ -10,4 +10,4 @@
 
 ## Rust Audits
 ### XXXXX - w/ Codespect - 21.10.2025
-`Report Soon`
+`Report Is Private`

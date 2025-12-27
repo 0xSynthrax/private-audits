@@ -8,6 +8,9 @@
 ### XXXXX - w/ Codespect - 19.11.2025
 `Report Soon`
 
+### XXXXX - w/ Codespect - 22.12.2025
+`Report Soon`
+
 ## Rust Audits
 ### XXXXX - w/ Codespect - 21.10.2025
 `Report Is Private`

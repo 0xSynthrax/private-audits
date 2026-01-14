@@ -11,6 +11,9 @@
 ### XXXXX - w/ Codespect - 22.12.2025
 `Report Soon`
 
+### XXXXX - w/ Codespect - 14.01.2026
+`Report Soon`
+
 ## Rust Audits
-### XXXXX - w/ Codespect - 21.10.2025
-`Report Is Private`
+### Votex-LGT - w/ Codespect - 21.10.2025
+[Report](https://github.com/CODESPECT-security/audit-reports/blob/main/039_CODESPECT_Votex_LGT.pdf)

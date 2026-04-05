@@ -18,3 +18,7 @@
 
 ### Votex-LGT - w/ Codespect - 21.10.2025
 [Report](https://github.com/CODESPECT-security/audit-reports/blob/main/039_CODESPECT_Votex_LGT.pdf)
+
+## Cairo Audits
+
+### XXXXX - w/ Sherlock x Codespect - 04.04.2026
